@@ -1,0 +1,8 @@
+C:\Users\Geazi José\Desktop\GFT Teste\Teste\Teste\obj\Debug\1 - Pessoas.csproj.AssemblyReference.cache
+C:\Users\Geazi José\Desktop\GFT Teste\Teste\Teste\obj\Debug\1 - Pessoas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Geazi José\Desktop\GFT Teste\Teste\Teste\obj\Debug\1 - Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\Geazi José\Desktop\GFT Teste\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\Geazi José\Desktop\GFT Teste\Teste\Teste\obj\Debug\Teste.pdb
+C:\Users\Geazi José\Desktop\GFT Teste\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\Geazi José\Desktop\GFT Teste\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\Geazi José\Desktop\GFT Teste\Teste\Teste\bin\Debug\Teste.pdb
