@@ -1,0 +1,7 @@
+C:\Users\Geazi José\Desktop\GFT Teste\Teste\4 - VerificadorLetras\obj\Debug\4 - VerificadorLetras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Geazi José\Desktop\GFT Teste\Teste\4 - VerificadorLetras\obj\Debug\4 - VerificadorLetras.csproj.CoreCompileInputs.cache
+C:\Users\Geazi José\Desktop\GFT Teste\Teste\4 - VerificadorLetras\bin\Debug\4 - VerificadorLetras.exe.config
+C:\Users\Geazi José\Desktop\GFT Teste\Teste\4 - VerificadorLetras\bin\Debug\4 - VerificadorLetras.exe
+C:\Users\Geazi José\Desktop\GFT Teste\Teste\4 - VerificadorLetras\bin\Debug\4 - VerificadorLetras.pdb
+C:\Users\Geazi José\Desktop\GFT Teste\Teste\4 - VerificadorLetras\obj\Debug\4 - VerificadorLetras.exe
+C:\Users\Geazi José\Desktop\GFT Teste\Teste\4 - VerificadorLetras\obj\Debug\4 - VerificadorLetras.pdb
